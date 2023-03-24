@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1937765f-9941-4826-893f-b2169d589a17/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/fyp2UNITEN",
+    "appService.deploySubpath": "."
+}
